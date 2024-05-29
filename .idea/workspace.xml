@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1649ccf0-0c9d-452c-8985-3b2c83d8d8be" name="Changes" comment="Alterações realizadas">
-      <change afterPath="$PROJECT_DIR$/../9camp/.idea/9camp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../INSTAGRAM/.idea/INSTAGRAM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lojinha de PS2/.idea/untitled4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloneglobo - Copia/.idea/cloneglobo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cloneglobo/.idea/cloneglobo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/untitled3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1649ccf0-0c9d-452c-8985-3b2c83d8d8be" name="Changes" comment="Alterações realizadas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,21 +53,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.desafio.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_bancário.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/maeli/Documents/repor-local&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Vcs Notifications": "VCS notifications",
+    "Notification.DoNotAsk-Vcs Notifications": "true",
+    "Python.desafio.executor": "Run",
+    "Python.sistema_bancário.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/maeli/Documents/repor-local",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\maeli\Documents\repor-local\Projetos\desafio1_python" />
@@ -135,7 +126,7 @@
       <workItem from="1716933798273" duration="24000" />
       <workItem from="1716933876417" duration="17733000" />
       <workItem from="1716957434734" duration="42000" />
-      <workItem from="1716957828410" duration="650000" />
+      <workItem from="1716957828410" duration="963000" />
     </task>
     <task id="LOCAL-00001" summary="Alterações realizadas">
       <option name="closed" value="true" />
@@ -153,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716956534791</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Alterações realizadas">
+      <option name="closed" value="true" />
+      <created>1716958770620</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716958770620</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
