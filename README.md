@@ -22,9 +22,9 @@ MIT License
 
 Copyright (c) 2024 [Maeli Palharini]
 
-## ✍️ Autores
+## ✍️ Autora
 
-- [MaeliPalharini](https://github.com/MaeliPalharini)
+- [MaeliPalharini](https://github.com/maelipalharini)
 
 
 
