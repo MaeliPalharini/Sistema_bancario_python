@@ -24,7 +24,7 @@ Copyright (c) 2024 [Maeli Palharini]
 
 ## ✍️ Autora
 
-- [MaeliPalharini](https://github.com/maelipalharini)
+- [Maeli Palharini](https://github.com/maelipalharini)
 
 
 
